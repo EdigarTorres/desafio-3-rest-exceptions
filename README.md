@@ -11,9 +11,6 @@ acessar um recurso de clientes, contendo as cinco operações básicas aprendida
 - Atualizar recurso 
 - Deletar recurso
 
-<img width="379" height="358" alt="image" src="https://github.com/user-attachments/assets/f7dde3e6-872d-4382-bc37-84c8bcbb0146" />
-
-
 Busca de cliente por id 
 GET /clients/1 
 
