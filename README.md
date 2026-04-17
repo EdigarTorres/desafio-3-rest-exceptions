@@ -11,6 +11,8 @@ acessar um recurso de clientes, contendo as cinco operações básicas aprendida
 - Atualizar recurso 
 - Deletar recurso
 
+## Endpoints
+
 Busca de cliente por id 
 GET /clients/1 
 
@@ -40,8 +42,8 @@ PUT /clients/1
 Deleção de cliente 
 DELETE /clients/1 
 
+## Checklit
 
-CHECKLIST: 
 1. Busca por id retorna cliente existente 
 2. Busca por id retorna 404 para cliente inexistente 
 3. Busca paginada retorna listagem paginada corretamente 
