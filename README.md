@@ -13,6 +13,7 @@ acessar um recurso de clientes, contendo as cinco operações básicas aprendida
 
 <img width="379" height="358" alt="image" src="https://github.com/user-attachments/assets/f7dde3e6-872d-4382-bc37-84c8bcbb0146" />
 
+
 Busca de cliente por id 
 GET /clients/1 
 
@@ -41,6 +42,7 @@ PUT /clients/1
 
 Deleção de cliente 
 DELETE /clients/1 
+
 
 CHECKLIST: 
 1. Busca por id retorna cliente existente 
