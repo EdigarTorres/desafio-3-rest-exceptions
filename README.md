@@ -16,6 +16,8 @@ acessar um recurso de clientes, contendo as cinco operações básicas aprendida
 - **Spring** (Framework)
 - **Maven** (Gerenciamento de dependências e build)
 - **Jackarta** (Gerenciamento de ORM)
+- **Hibernate-Validator** (Validação de dados)
 - **H2** (Banco de dados leve para desenvolvimento)
 - **Git** (Controle de versão)
 - **GitHub** (Hospedagem do repositório)
+- **Spring Data JPA** (Operações de acesso ao banco de dados)
